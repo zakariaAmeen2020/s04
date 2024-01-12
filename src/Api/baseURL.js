@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 
-const baseUrl = axios.create({ baseURL:BASE_URL=https://sdgsdg.onrender.com
+const baseUrl = axios.create({ baseURL:https://sdgsdg.onrender.com
 })
 
 export default baseUrl
