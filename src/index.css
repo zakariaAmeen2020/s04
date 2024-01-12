@@ -657,7 +657,7 @@ body {
 .filter-sub {
   color: #555550;
   font-family: "Almarai";
-  font-size: 12px;
+  font-size: 8px;
   letter-spacing: 0;
   line-height: 17px;
   text-align: center;
@@ -668,7 +668,6 @@ body {
   position: absolute;
   z-index: -1;
 }
-
 
 .dropdown-toggle {
   color: white !important;
