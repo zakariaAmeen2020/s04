@@ -13,12 +13,13 @@ const ProductCard = ({ item, favProd }) => {
     const [removeToWishListData, addToWishListData, handelFav, favImg] = ProductCardHook(item, favProd)
 
     return (
-        <Col xs="6" sm="6" md="4" lg="3" className="d-flex">
+        <Col xs="11" sm="11" md="11" lg="11" className="d-flex">
 
             <Card
                 className="my-2"
                 style={{
                     width: "100%",
+                
                     height: "375px",
                     borderRadius: "8px",
                     border: "none",
